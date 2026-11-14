@@ -78,6 +78,6 @@
       <text x="66" y="170" font-size="22" font-weight="600" fill="#38bdf8">Embedded Software Engineer</text>
     </g>
     <rect x="66" y="192" width="44" height="3" rx="1.5" fill="#34d399"/>
-    <text x="66" y="228" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#94a3b8">embedded linux  /  ip cameras  /  real-time video</text>
+    <text x="66" y="228" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#94a3b8">firmware engineer / embedded system design / media streaming / IoT devices</text>
   </g>
 </svg>
