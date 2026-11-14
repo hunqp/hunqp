@@ -1,4 +1,4 @@
-![hunqp](assets/header.svg)
+![Pham Nguyen Quoc Hung - Embedded Software Engineer](assets/banner.webp)
 
 ### Hi, I'm Hung
 
