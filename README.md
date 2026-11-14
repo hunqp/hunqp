@@ -1,3 +1,5 @@
+![hunqp](banner.svg)
+
 ### Hi, I'm Hung
 
 Embedded software engineer in Ho Chi Minh City.
