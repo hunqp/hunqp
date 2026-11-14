@@ -1,4 +1,4 @@
-![hunqp](banner.svg)
+![hunqp](assets/banner.svg)
 
 ### Hi, I'm Hung
 
